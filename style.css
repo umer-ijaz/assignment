@@ -1,0 +1,6 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(239, 243, 6);
+}
